@@ -10,7 +10,8 @@ Canvas {
 .canvas {
     background-image: url('Media/Group.png');
     width:100%;
-    position:relative;  
+    position:absolute;
+    background-repeat: no-repeat;
 }
 
 
