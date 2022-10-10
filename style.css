@@ -44,7 +44,7 @@ Canvas {
     line-height: 222%;
 }
 #test2 a{
-    color: #68C0F3;
+    color: #36FFDA;
     font-size: 169px;
 }
 #test2 a:hover{
@@ -56,7 +56,7 @@ Canvas {
   color: whitesmoke;
 }
 #test2 a:visited:hover {
-  color: #68C0F3;
+  color: #36FFDA;
 }
 
 
