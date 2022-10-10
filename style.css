@@ -32,7 +32,7 @@ Canvas {
 #test a:visited {
   color: whitesmoke;
 }
-#test a:visited hover {
+#test a:visited:hover {
   color: #68C0F3;
 }
 
@@ -55,6 +55,9 @@ Canvas {
 #test2 a:visited {
   color: whitesmoke;
 }
+#test2 a:visited:hover {
+  color: #68C0F3;
+}
 
 
 #test3 {
@@ -75,6 +78,9 @@ Canvas {
 #test3 a:visited {
   color: whitesmoke;
 }
+#test3 a:visited:hover {
+  color: #68C0F3;
+}
 
 
 #test4 {
@@ -93,6 +99,9 @@ Canvas {
 }
 #test4 a:visited {
   color: whitesmoke;
+}
+#test4 a:visited:hover {
+  color: #36FFDA;
 }
 
 
@@ -115,6 +124,9 @@ Canvas {
 #test5 a:visited {
   color: whitesmoke;
 }
+#test5 a:visited:hover {
+  color: #36FFDA;
+}
 
 
 #test6 {
@@ -134,6 +146,9 @@ Canvas {
 }
 #test6 a:visited {
   color: whitesmoke;
+}
+#test6 a:visited:hover {
+  color: #68C0F3;
 }
 
 
@@ -155,6 +170,9 @@ Canvas {
 #test7 a:visited {
   color: whitesmoke;
 }
+#test7 a:visited:hover {
+  color: #68C0F3;
+}
 
 
 #test8 {
@@ -173,6 +191,9 @@ Canvas {
 }
 #test8 a:visited {
   color: whitesmoke;
+}
+#test8 a:visited:hover {
+  color: #36FFDA;
 }
 
 
@@ -194,6 +215,9 @@ Canvas {
 #test9 a:visited {
   color: whitesmoke;
 }
+#test9 a:visited:hover {
+  color: #36FFDA;
+}
 
 
 #test10 {
@@ -213,4 +237,7 @@ Canvas {
 }
 #test10 a:visited {
   color: whitesmoke;
+}
+#test10 a:visited:hover {
+  color: #68C0F3;
 }
